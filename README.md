@@ -16,7 +16,7 @@ This project is a complete Machine Learning pipeline with a **Streamlit web app*
 - `ipl_model.pkl` – Trained ML model (Random Forest)
 - `encoders.pkl` – Label encoders for team and winner
 - `app.py` – Final Streamlit web application script
-
+-'model_training.ipynb' - Full code File for training model
 ## 💻 How to Run the App
 1. 📦 Install required packages:
 pip install pandas scikit-learn streamlit
